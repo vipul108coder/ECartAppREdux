@@ -1,1 +1,1 @@
-# ECartAppREdux
+# ECartAppRedux
